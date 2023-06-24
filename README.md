@@ -4,12 +4,17 @@ Python google assistant (russian)
 REQUIREMENTS:
 
 pyaudio -- pip install PyAudio
+
 https://github.com/jleb/pyaudio
 
+
 speech-recognition -- pip install SpeechRecognition
+
 https://github.com/Uberi/speech_recognition
 
+
 playsound -- pip install playsound
+
 https://github.com/TaylorSMarks/playsound
 
 
