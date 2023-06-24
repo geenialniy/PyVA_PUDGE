@@ -1,0 +1,15 @@
+"""Starts dialogue"""
+"start_func": ["пудж", "путч", "porsche", "лучше", "луч", "пупс", "пульс", "падж"]
+
+"""Ends dialogue (Only in dialogue)"""
+"bye_func": ["пока", "бб", "до свидания"]
+
+"""Finish project"""
+"end_func": ["заверши программу", "завершить программу"]
+
+"""Plays greeting track (Only in dialogue)"""
+"hi_func": ["привет", "здравствуй", "как дела"]
+
+"""Opens ...Desktop/opera.exe (Only in dialogue)"""
+"open_opera": ["открой браузер", "включи браузер", "запусти браузер", "открой оперу", "открой опера",
+                   "включи опера", "запусти опера", "включи оперу", "запусти оперу"]
