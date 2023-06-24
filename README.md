@@ -7,22 +7,22 @@ pyaudio -- pip install PyAudio
 
 Git link:
 
-
 https://github.com/jleb/pyaudio
+
 ---------------------------------------------------
 speech-recognition -- pip install SpeechRecognition
 
 Git link:
 
-
 https://github.com/Uberi/speech_recognition
+
 ---------------------------------------------------
 playsound -- pip install playsound
 
 Git link:
 
-
 https://github.com/TaylorSMarks/playsound
+
 ---------------------------------------------------
 
 
