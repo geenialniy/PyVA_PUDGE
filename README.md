@@ -3,30 +3,46 @@ Python voice assistant (russian)
 
 REQUIREMENTS:
 ---------------------------------------------------
-pyaudio -- pip install PyAudio
+pyaudio
 
-Git link:
+Installation:
+
+pip install PyAudio
+
+GitHub link:
 
 https://github.com/jleb/pyaudio
 
 ---------------------------------------------------
-speech-recognition -- pip install SpeechRecognition
+speech-recognition
 
-Git link:
+Installation:
+
+pip install SpeechRecognition
+
+GitHub link:
 
 https://github.com/Uberi/speech_recognition
 
 ---------------------------------------------------
 Vosk local model
 
+Installation:
+
+pip3 install vosk
+
 Link:
 
 https://alphacephei.com/vosk/index
 
 ---------------------------------------------------
-playsound -- pip install playsound
+playsound
 
-Git link:
+Installation:
+
+pip install playsound
+
+GitHub link:
 
 https://github.com/TaylorSMarks/playsound
 
