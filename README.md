@@ -30,5 +30,3 @@ INFO:
 ---------------------------------------------------
 Check your microphone index by reading check.py and paste it to main.py
 in recognize_func with sr.Microphone(device_index=YOURINDEX) as mic:
-
-Check all commands by reading commands.txt
