@@ -1,5 +1,5 @@
 # PyVA_PUDGE
-Python google assistant (russian)
+Python voice assistant (russian)
 
 REQUIREMENTS:
 ---------------------------------------------------
@@ -17,6 +17,13 @@ Git link:
 https://github.com/Uberi/speech_recognition
 
 ---------------------------------------------------
+Vosk local model
+
+Link:
+
+https://alphacephei.com/vosk/index
+
+---------------------------------------------------
 playsound -- pip install playsound
 
 Git link:
@@ -28,5 +35,4 @@ https://github.com/TaylorSMarks/playsound
 
 INFO:
 ---------------------------------------------------
-Check your microphone index by reading check.py and paste it to main.py
-in recognize_func with sr.Microphone(device_index=YOURINDEX) as mic:
+Check your microphone index by running check.py and paste it to main.py
